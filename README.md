@@ -17,6 +17,8 @@
 
 <div align="center">
   <img src="https://github.com/BrysonMG/BrysonMG/blob/main/front-end.png" />
-  <img src="https://github-readme-stats-phi-coral.vercel.app/api?username=BrysonMG&show_icons=true&theme=merko&custom_title=GitHub+Stats" />
   <img src="https://github.com/BrysonMG/BrysonMG/blob/main/back-end.png" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats-phi-coral.vercel.app/api?username=BrysonMG&show_icons=true&theme=merko&custom_title=GitHub+Stats" />
 </div>
