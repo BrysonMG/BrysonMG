@@ -2,7 +2,7 @@
 
 ---
 <h2> 🖥️ What I'm currently working on: </h2>
-<h4> I am going through a Java specialization course offered on Cousera and occassionally working on small side projects. I also decided that I needed to redesign my personal website, so that is currently on the agenda as well. </h4>
+<h4> I am going through a Java specialization course offered on Cousera and occassionally working on a side projects (<a href="https://github.com/BrysonMG/Pokemon-Planner">Pokemon Planner</a>). I also decided that I needed to redesign my personal website, so that is currently on the agenda as well. </h4>
 
 <h2> 🤓 What I enjoy (Development): </h2>
 <h4> When it comes to development, what I enjoy most is the problem-solving. I love coming up with solutions and uncovering hidden faults. It is incredibly satisfying to run a program and see that it works perfectly, especially if it made me work for it. 
